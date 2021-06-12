@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1576453627 source:d:\college\level 2\data structuer\practice\sheet 4\sheet4\queue.c
+	"global.h"
+	"queue.h"
+
+1576444669 d:\college\level 2\data structuer\practice\sheet 4\sheet4\global.h
+
+1576437910 d:\college\level 2\data structuer\practice\sheet 4\sheet4\queue.h
+	"global.h"
+
+1576454535 source:d:\college\level 2\data structuer\practice\sheet 4\sheet4\stack.c
+	"global.h"
+	"stack.h"
+
+1576443267 d:\college\level 2\data structuer\practice\sheet 4\sheet4\stack.h
+	"global.h"
+
+1576454413 source:d:\college\level 2\data structuer\practice\sheet 4\sheet4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"queue.h"
+	"stack.h"
+
+1617140184 source:d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"queue.h"
+	"stack.h"
+
+1576444669 d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\global.h
+
+1576437910 d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\queue.h
+	"global.h"
+
+1576443267 d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\stack.h
+	"global.h"
+
+1576453627 source:d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\queue.c
+	"global.h"
+	"queue.h"
+
+1576454535 source:d:\college\level 2\trem 1\data structuer\practice\sheet 4\sheet4\stack.c
+	"global.h"
+	"stack.h"
+
